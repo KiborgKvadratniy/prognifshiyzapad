@@ -1,1 +1,1 @@
-print "idi nafig"();
+turip ip ip
