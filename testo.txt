@@ -1,1 +1,1 @@
-print "idi nafig"();
+print "hello world"();
